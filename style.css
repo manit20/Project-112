@@ -1,0 +1,27 @@
+.test_images{
+    height: 90px;
+    width: 90px;
+}
+.websites{
+    color: red;
+    font-size: 20px;
+}
+
+body{
+    background-color: aquamarine;
+}
+.result{
+    color: green;
+}
+.accurate{
+    width: 400px;
+}
+.result{
+    font-weight: bolder;
+}
+#final_answer{
+    background-color: blue;
+    color: aqua;
+    margin-left: 10px;
+    margin-right: 15px;
+}
